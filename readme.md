@@ -32,7 +32,9 @@ Seguem alguns passos importantes para a realização do projeto:
 
 - Dinamização no Desktop.
 
- ![Alt text](Video_2307121152253.gif)
+<p align="center">
+<img width="460" height="300" src="Video_230712115253.gif">
+</p>
 
 - Página para visualização em celular 01.
 
